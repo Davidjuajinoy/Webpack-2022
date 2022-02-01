@@ -1,0 +1,13 @@
+@import url("css/style.css");
+
+@font-face {
+  font-family: "Poppins";
+  src: url("./assets/fonts/Poppins/Poppins-Regular.ttf") format("ttf");
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: yellow;
+}
